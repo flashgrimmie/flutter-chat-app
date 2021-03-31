@@ -1,5 +1,4 @@
-# chat_app_example
-
+# chat app with flutter
 A new Flutter project. It uses firebase database.
 
 https://www.youtube.com/watch?v=1bNME5FWWXk
